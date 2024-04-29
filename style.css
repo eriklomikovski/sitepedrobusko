@@ -4,8 +4,8 @@
 }
 
 .cabecalho {
-    background-color: #424E61;
-    color: rgb(172, 68, 68);
+    background-color: #f5f6f8;
+    color: rgb(37, 19, 19);
     display: flex;
     justify-content: space-around;
     align-items: center;
