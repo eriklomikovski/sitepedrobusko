@@ -1,6 +1,6 @@
 
  body{
-    background-color:#6a00ff
+    background-color:#a26eeb
  }
  
  
@@ -34,9 +34,11 @@
    
  }
  .escola-imagem{
-    margin-left: 450px ;
-    margin-bottom: 1400px;
-    margin-top: 1400px;
+   width: 20%;
+      margin-left: 900px;
+      margin-right: 100px;
+      margin-top: -900px;
+      margin-bottom: 100px;
    
  }
  
