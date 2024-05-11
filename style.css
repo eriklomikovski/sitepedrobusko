@@ -5,11 +5,11 @@ header {
     display:block ;
     justify-content: space-around;
     padding: 24px;
-    color: #ffffff;
+    color: #380c9f;
    
  }
  body{
-    background-color: #f1f1f1;
+    background-color:#a25fff7e
  }
  
  
@@ -18,7 +18,7 @@ header {
  .titulo1{
     font-size: 50px;
     text-align: center;
-    color: #ffffff;
+    color: #250651;
     font-style: italic;
  }
  
@@ -26,7 +26,7 @@ header {
  .titulo2{
     font-size: 100px;
     text-align: center;
-    color:#fffeff ;
+    color:#250651;
    
  }
   
@@ -34,7 +34,7 @@ header {
     margin-left: 100px;
     margin-top: 200px;
     margin-right: 1550px;;
-    background-color:#ffffff;
+    background-color:#250651;
     height: 300px;
    
  }
