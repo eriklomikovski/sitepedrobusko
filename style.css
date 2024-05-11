@@ -7,11 +7,12 @@
  
  
  .titulo1{
-    font-size: 50px;
-    text-align: center;
-    color: #0aceff;
-    font-style: italic;
- }
+   font-size: 50px;
+    text-align:center;
+    color: #675821;
+     font-style: italic;
+     font-weight: 400;
+    
  
  
  .titulo2{
@@ -69,12 +70,9 @@
     grid-template-columns: 20%  20% 20% 20% 20%
    
  }
- .nossa-escola{
-    font-size: 50px;
-    text-align:center;
-    margin-left: 850px;
+
    
- }
+ 
  
  
  
