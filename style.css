@@ -8,10 +8,10 @@
  
  .titulo1{
    font-size: 50px;
-    text-align:center;
-    color: #675821;
-     font-style: italic;
-     font-weight: 400;
+    text-align: center;
+    color: #34092D;
+    font-style: italic;
+}
     
  
  
@@ -68,12 +68,12 @@
  .estudante-todos{
     display: grid;
     grid-template-columns: 20%  20% 20% 20% 20%
+    }
+
+.nossa-escola{
+      font-size: 50px;
+      text-align:center;
+      margin-left: 850px;
+      
    
  }
-
-   
- 
- 
- 
- 
- 
